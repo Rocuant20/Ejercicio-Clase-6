@@ -1,0 +1,58 @@
+body{
+    background-color:rgb(215,225,254);
+    font-family: 'Roboto', sans-serif;
+}
+.div1{
+    background-color: white;
+    height: 700px;
+    width: 450px;
+    margin: 100px 300px -230px 700px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 70px 50px -15px rgb(152, 157, 186);
+}
+.div2{
+    background-color: rgb(248,249,254);
+    margin: 80px 100px 100px 100px;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.icono{
+    margin: -10px 10px 100px 805px;
+}
+.p1{
+    font-size: 20px;
+    color: rgb(148,154,172);
+}
+.imagen1{
+    border-radius: 10px 10px 20px 200px;
+    
+}
+.div4{
+    background-color:rgb(53,42,225);
+    margin: -40px 70px 10px 27px;
+    height: 60px;
+    width: 400px;
+    border-radius: 20px;
+    box-shadow: 5px 6px 10px 1px rgba(54, 42, 225, 0.763);
+    
+} 
+h2{
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
+h1{
+    font-weight: 700;
+    color: rgb(34,46,78);
+}
+h3{
+    color: rgb(34,46,78);
+}
+.p2{
+    color: rgb(148,154,172);
+    font-weight: bolder;
+}
+.presio{
+    color: rgb(148,154,172);
+}
